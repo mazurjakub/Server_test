@@ -5,4 +5,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\Server_test.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Server_test.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Server_test.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\Server_test.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\Server_test.exe" />
+    <None Include="bin\Debug\netcoreapp3.1\Server_test.pdb" />
+  </ItemGroup>
+
 </Project>
