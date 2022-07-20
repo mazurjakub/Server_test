@@ -6,15 +6,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\Server_test.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="bin\Debug\netcoreapp3.1\Server_test.deps.json" />
     <Content Include="bin\Debug\netcoreapp3.1\Server_test.runtimeconfig.dev.json" />
     <Content Include="bin\Debug\netcoreapp3.1\Server_test.runtimeconfig.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\Server_test.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Server_test.csproj.nuget.dgspec.json" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="bin\Debug\netcoreapp3.1\Server_test.dll" />
     <None Include="bin\Debug\netcoreapp3.1\Server_test.exe" />
     <None Include="bin\Debug\netcoreapp3.1\Server_test.pdb" />
+    <None Include="obj\Debug\netcoreapp3.1\apphost.exe" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.genruntimeconfig.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Server_test.pdb" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Server_test.csproj.nuget.g.props" />
+    <None Include="obj\Server_test.csproj.nuget.g.targets" />
   </ItemGroup>
 
 </Project>
